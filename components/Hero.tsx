@@ -9,7 +9,7 @@ const Hero = () => {
   }
 
   return (
-    <div className='hero mb-52'>
+    <div className='hero mb-56'>
       <div className="flex-1 pt-36 padding-x">
         <h1 className="hero__title">
           Find, book and rent a car -- quickly and easily!
